@@ -1,0 +1,22 @@
+
+.calcbutton {
+    background: green !important;
+    color: lightgrey !important;
+    width: 150px !important;
+    display: block !important;
+    margin: 0 auto !important;
+  }
+
+.calcbutton:hover {
+    background: darkgreen !important;
+  }
+
+.form12 {
+  align-content: center !important;
+  text-align: center !important;
+  margin: auto;
+}
+
+#category123 {
+  height: 28px;
+}
